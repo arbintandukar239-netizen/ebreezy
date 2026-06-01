@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis Voice Assistant",
+  "description": "A personal voice AI assistant inspired by Jarvis from Iron Man, featuring online Gemini API responses, offline fallback systems, interactive voice recognition/synthesis, real-time diagnostic systems, weather, location, and reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
